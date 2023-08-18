@@ -2,6 +2,7 @@
   "extends": [
     "config:recommended",
     "default:automergeMajor",
-    "default:pinDigestsDisabled"
+    "default:pinDigestsDisabled",
+    "default:skipStatusChecks",
   ]
 }
