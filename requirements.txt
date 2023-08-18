@@ -1,5 +1,5 @@
 ansible==8.2.0
-ansible-core==2.15.2
+ansible-core==2.15.3
 netaddr==0.8.0
 pynetbox==7.0.1
 pytz==2023.3
