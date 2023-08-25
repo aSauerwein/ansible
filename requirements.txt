@@ -1,7 +1,7 @@
 ansible==8.3.0
 ansible-core==2.15.3
 netaddr==0.8.0
-pynetbox==7.0.1
+pynetbox==7.1.0
 pytz==2023.3
 napalm==4.1.0
 napalm-ansible==1.1.0
