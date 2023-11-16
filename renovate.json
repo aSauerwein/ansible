@@ -1,4 +1,5 @@
 {
+  "enabledManagers": ["python"]
   "extends": [
     "config:recommended",
     "default:automergeMajor",
