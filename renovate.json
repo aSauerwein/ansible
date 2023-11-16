@@ -1,6 +1,6 @@
 {
   "enabledManagers": [
-    "python"
+    "pip_requirements"
   ],
   "extends": [
     "config:recommended",
