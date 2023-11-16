@@ -26,7 +26,7 @@ jobs:
           password: ${{ secrets.DOCKERHUB_TOKEN }}
       - name: Get Ansible version
         id: getversion
-        run: echo "version=$(awk -F'=' '/^ansible/{print $NF}' project.toml | sed 's/[\"^]//g')" >> $GITHUB_OUTPUT
+        run: echo "version=$(awk -F'=' '/^ansible/{print $NF}' pyproject.toml | sed 's/[\"^]//g')" >> $GITHUB_OUTPUT
       - name: Docker meta
         id: meta # you'll use this in the next step
         uses: docker/metadata-action@v5
