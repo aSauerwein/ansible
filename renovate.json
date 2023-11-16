@@ -1,9 +1,11 @@
 {
-  "enabledManagers": ["python"]
+  "enabledManagers": [
+    "python"
+  ],
   "extends": [
     "config:recommended",
     "default:automergeMajor",
     "default:pinDigestsDisabled",
-    "default:skipStatusChecks",
+    "default:skipStatusChecks"
   ]
 }
