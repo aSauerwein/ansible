@@ -7,5 +7,6 @@
     "default:automergeMajor",
     "default:pinDigestsDisabled",
     "default:skipStatusChecks"
-  ]
+  ],
+  "ignoreDeps": ["python"]
 }
