@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "~3.11.0"
-ansible = "10.1.0"
+ansible = "10.2.0"
 netaddr = "^1.0.0"
 pynetbox = "^7.2.0"
 pytz = "^2023.3.post1"
