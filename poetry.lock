@@ -756,13 +756,13 @@ tests = ["hypothesis (>=3.27.0)", "pytest (>=3.2.1,!=3.3.0)"]
 
 [[package]]
 name = "pynetbox"
-version = "7.6.1"
+version = "7.7.0"
 description = "NetBox API client library"
 optional = false
 python-versions = "*"
 files = [
-    {file = "pynetbox-7.6.1-py3-none-any.whl", hash = "sha256:daa064b1cc4e7d871124ddca1e0de3a36e7ff9e0814fb046a90e36024fd59e4b"},
-    {file = "pynetbox-7.6.1.tar.gz", hash = "sha256:8a7ee99b89d08848be134793015afc17c85711a18e8c7e67c353362e1c8d7fc7"},
+    {file = "pynetbox-7.7.0-py3-none-any.whl", hash = "sha256:48de7c1d23aa0a16e78e76e68a58fbdd72782e13be7f25facafdf325ef0d3640"},
+    {file = "pynetbox-7.7.0.tar.gz", hash = "sha256:6ebf1a68fe19e3c9528f1fcf214ceee719ace937c5f78f3f33964738e3cd3f25"},
 ]
 
 [package.dependencies]
